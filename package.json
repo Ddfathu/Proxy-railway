@@ -1,12 +1,8 @@
 {
-  "name": "railway-proxy",
+  "name": "railway-tcp-proxy",
   "version": "1.0.0",
-  "description": "Proxy server on Railway",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  },
-  "dependencies": {
-    "proxy": "^1.0.2"
   }
 }
